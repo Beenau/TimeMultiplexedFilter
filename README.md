@@ -5,5 +5,5 @@ Creates a time multiplexed FIR filter.  Filter MUX controls can be expanded for 
 
 Desined with miniZed hardware in mind.
 
-#.dat Files
+# .dat Files
 These files provide coefficients and some sample inputs in signed binary formate
